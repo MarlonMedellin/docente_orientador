@@ -17,10 +17,10 @@ Notas por asignatura, promedio semestral, asignaturas aprobadas/reprobadas, comp
 Las instrucciones del sistema y los archivos de conocimiento definen el tono, los criterios SIEE y las recetas de redacción. El modelo clasifica notas, identifica áreas altas (≥4.0) y bajas (<3.5), interpreta el promedio y aplica reglas de lenguaje profesional descritas en los archivos 01–06.
 
 ### Estructura de salida
-Cada semestre se redacta en tres párrafos (~80 palabras c/u):
-1. **Aspectos Relevantes**: nombra asignaturas con desempeño alto/superior, interpreta el promedio y reconoce fortalezas académicas, actitudinales y convivenciales.
-2. **Aspectos para Mejorar**: lista todas las asignaturas con desempeño bajo (<3.5), indica cuántas son y recomienda acciones concretas.
-3. **Compromiso de la Familia**: convoca al acompañamiento respetuoso, reconoce apoyos existentes o solicita mayor corresponsabilidad.
+Cada semestre se redacta en tres párrafos (~80 palabras c/u) y la respuesta se entrega en una **tabla HTML** con una fila y tres columnas, en este orden:
+1. **Aspectos Relevantes**: en la columna “ASPECTOS RELEVANTES – PRIMER/SEGUNDO SEMESTRE” se incluye el párrafo que nombra asignaturas con desempeño alto/superior, interpreta el promedio y reconoce fortalezas académicas, actitudinales y convivenciales.
+2. **Aspectos para Mejorar**: en la columna “ASPECTOS PARA MEJORAR – PRIMER/SEGUNDO SEMESTRE” se incluye el párrafo que lista todas las asignaturas con desempeño bajo (<3.5), indica cuántas son y recomienda acciones concretas. En el primer semestre, cuando exista al menos una asignatura en desempeño bajo, debe dejar explícito que el estudiante está reprobando el grado en ese momento, con tono orientador.
+3. **Compromiso de la Familia**: en la columna “COMPROMISO DE LA FAMILIA – PRIMER/SEGUNDO SEMESTRE” se incluye el párrafo que convoca al acompañamiento respetuoso, reconoce apoyos existentes o solicita mayor corresponsabilidad.
 
 ## Directrices pedagógicas, didácticas y comunicacionales
 - Evaluación formativa que prioriza reconocimiento de avances, claridad en propósitos y retroalimentación útil (Archivo 01).
