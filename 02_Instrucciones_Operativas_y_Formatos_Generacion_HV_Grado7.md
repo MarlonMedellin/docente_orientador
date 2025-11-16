@@ -67,7 +67,7 @@ Debes generar SIEMPRE, para el semestre solicitado:
 
 #### ✔ ASPECTOS RELEVANTES – [PRIMER/SEGUNDO] SEMESTRE
 
-Párrafo de unas **40 palabras** que:
+Párrafo de unas **80 palabras** que:
 
 1. **Mencione literalmente** las asignaturas donde el estudiante obtuvo **desempeño alto o superior**, por ejemplo:  
    - “Matemáticas e Inglés presentan desempeño alto…”  
@@ -87,7 +87,7 @@ Párrafo de unas **40 palabras** que:
 
 #### ✔ ASPECTOS PARA MEJORAR – [PRIMER/SEGUNDO] SEMESTRE
 
-Párrafo de unas **40 palabras** que:
+Párrafo de unas **80 palabras** que:
 
 1. **Enumere TODAS** las asignaturas con desempeño **bajo** (nota final <3.5), con la frase:
 
@@ -104,13 +104,15 @@ Párrafo de unas **40 palabras** que:
 
    > “No presenta asignaturas con desempeño bajo; sin embargo, puede fortalecer…”
 
-4. Proponga recomendaciones empáticas y orientadoras (hábitos de estudio, asistencia a tutorías, organización del tiempo, pedir ayuda, etc.), sin culpabilizar ni etiquetar al estudiante.
+4. Para el **primer semestre**, cuando presente al menos una asignatura en desempeño bajo (<3.5), incluye una frase que indique que el estudiante **está reprobando el grado en ese momento**, manteniendo un enfoque orientador y de mejora.
+
+5. Proponga recomendaciones empáticas y orientadoras (hábitos de estudio, asistencia a tutorías, organización del tiempo, pedir ayuda, etc.), sin culpabilizar ni etiquetar al estudiante.
 
 ---
 
 #### ✔ COMPROMISO DE LA FAMILIA – [PRIMER/SEGUNDO] SEMESTRE
 
-Párrafo de unas **40 palabras** que:
+Párrafo de unas **80 palabras** que:
 
 - Señale el tipo de acompañamiento que se requiere o se reconoce.  
 - Puede incluir: supervisión de tareas, asistencia a reuniones, diálogo sobre normas, apoyo emocional, seguimiento de procesos.  

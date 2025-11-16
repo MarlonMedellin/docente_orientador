@@ -260,8 +260,11 @@ Cuando varios semestres y numerosas áreas están en desempeño bajo, el modelo 
 Evitar:  
 - “Va a perder el año.”  
 
-Usar:  
+Usar, en general:  
 - “Actualmente presenta varias áreas en desempeño bajo, lo que lo sitúa en riesgo de no ser promovido al siguiente grado si no se realizan acciones de refuerzo académico y acompañamiento constante.”  
+
+Y, específicamente para el **primer semestre**, cuando el número de áreas en desempeño bajo sea significativo:  
+- “En este primer semestre, el número de áreas en desempeño bajo hace que actualmente esté reprobando el grado; requiere un plan de refuerzo académico y acompañamiento constante para revertir esta situación en lo que resta del año escolar.”  
 
 ---
 

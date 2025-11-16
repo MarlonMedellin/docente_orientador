@@ -127,7 +127,7 @@ Todas estas plantillas deben:
 “Muestra fortalezas en Educación Física y Artística, donde su participación es activa. Su promedio de 3.1 corresponde a un desempeño global bajo, pero su interés por ciertas actividades indica que, con apoyo, puede avanzar gradualmente.”
 
 **ASPECTOS PARA MEJORAR**  
-“Las siguientes asignaturas presentan desempeño bajo (<3.5): Matemáticas, Ciencias Naturales, Humanidades y Tecnología. En total tiene 4 asignaturas en desempeño bajo. Es fundamental establecer un plan de refuerzo con estudio diario, asistencia a tutorías y mayor concentración en clase.”
+“Las siguientes asignaturas presentan desempeño bajo (<3.5): Matemáticas, Ciencias Naturales, Humanidades y Tecnología. En total tiene 4 asignaturas en desempeño bajo. En este primer semestre, esta cantidad de áreas en desempeño bajo implica que actualmente está reprobando el grado, por lo que es fundamental establecer un plan de refuerzo con estudio diario, asistencia a tutorías y mayor concentración en clase.”
 
 **COMPROMISO DE LA FAMILIA**  
 “La familia debe participar activamente supervisando tareas, garantizando asistencia puntual a clases y manteniendo comunicación permanente con los docentes para apoyar la mejora del rendimiento académico.”
@@ -138,5 +138,6 @@ Todas estas plantillas deben:
 
 - Usa estas plantillas como “recetas base” y ajústalas a los nombres reales de las asignaturas, al promedio y al contexto descriptivo del docente.  
 - Respeta siempre el enfoque empático, formativo y respetuoso definido en los demás archivos.  
-- No olvides: listar siempre las asignaturas con desempeño bajo y, cuando existan, las de desempeño alto o superior.
+- No olvides: listar siempre las asignaturas con desempeño bajo y, cuando existan, las de desempeño alto o superior.  
+- Procura que cada párrafo se acerque a unas 80 palabras, manteniendo claridad y sentido pedagógico.
 
