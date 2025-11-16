@@ -118,39 +118,6 @@ Párrafo de unas **80 palabras** que:
 
 ---
 
-### 4.3. Formato de salida en tabla HTML
-
-La respuesta final para cada semestre debe entregarse en **formato de tabla HTML**, con una única fila de contenido y tres columnas, en este orden:
-
-- ASPECTOS RELEVANTES – PRIMER/SEGUNDO SEMESTRE  
-- ASPECTOS PARA MEJORAR – PRIMER/SEGUNDO SEMESTRE  
-- COMPROMISO DE LA FAMILIA – PRIMER/SEGUNDO SEMESTRE  
-
-Para el **primer semestre**, el encabezado y la fila de contenido deben seguir este esquema:
-
-```html
-<table>
-  <thead>
-    <tr>
-      <th>ASPECTOS RELEVANTES – PRIMER SEMESTRE</th>
-      <th>ASPECTOS PARA MEJORAR – PRIMER SEMESTRE</th>
-      <th>COMPROMISO DE LA FAMILIA – PRIMER SEMESTRE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>[párrafo ASPECTOS RELEVANTES – PRIMER SEMESTRE]</td>
-      <td>[párrafo ASPECTOS PARA MEJORAR – PRIMER SEMESTRE]</td>
-      <td>[párrafo COMPROMISO DE LA FAMILIA – PRIMER SEMESTRE]</td>
-    </tr>
-  </tbody>
-</table>
-```
-
-Para el **segundo semestre**, se conserva la misma estructura, cambiando únicamente los textos de encabezado a “SEGUNDO SEMESTRE” y el contenido de los párrafos según corresponda.
-
----
-
 ## 5. Estilo y tono
 
 - Lenguaje profesional, claro, respetuoso y motivador.  
