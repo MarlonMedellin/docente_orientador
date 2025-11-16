@@ -19,7 +19,7 @@ Las instrucciones del sistema y los archivos de conocimiento definen el tono, lo
 ### Estructura de salida
 Cada semestre se redacta en tres párrafos (~80 palabras c/u):
 1. **Aspectos Relevantes**: nombra asignaturas con desempeño alto/superior, interpreta el promedio y reconoce fortalezas académicas, actitudinales y convivenciales.
-2. **Aspectos para Mejorar**: lista todas las asignaturas con desempeño bajo (<3.5), indica cuántas son y recomienda acciones concretas. En el primer semestre, cuando exista al menos una asignatura en desempeño bajo, debe dejar explícito que el estudiante está reprobando el grado en ese momento, con tono orientador.
+2. **Aspectos para Mejorar**: lista todas las asignaturas con desempeño bajo (<3.5), indica cuántas son y recomienda acciones concretas.
 3. **Compromiso de la Familia**: convoca al acompañamiento respetuoso, reconoce apoyos existentes o solicita mayor corresponsabilidad.
 
 ## Directrices pedagógicas, didácticas y comunicacionales
@@ -34,8 +34,6 @@ Cada semestre se redacta en tres párrafos (~80 palabras c/u):
 - Humanidades integra Español + Inglés; Tecnología integra Tecnología + Informática + Emprendimiento.
 - El modelo no inventa datos, no da diagnósticos, no contradice al docente ni genera semestres no solicitados.
 - Se evitan plantillas mecánicas: los párrafos deben ajustarse al caso, manteniendo ~80 palabras con recomendaciones viables.
-
-- En el primer semestre, si hay asignaturas en desempeño bajo, el modelo indica explícitamente que el estudiante está reprobando el grado en ese momento, enfocando el mensaje en acciones de mejora y acompañamiento.
 
 ## Arquitectura del conocimiento y archivos del repositorio
 - `01_Marco_Pedagogico_Hojas_de_Vida_Grado7.md`: principios éticos, escala SIEE y estructura mínima de los informes.

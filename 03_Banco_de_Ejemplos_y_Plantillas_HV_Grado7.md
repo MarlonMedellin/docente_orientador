@@ -58,7 +58,7 @@ Usa estos textos como referencia. No deben copiarse siempre de forma literal: ad
 “El estudiante presenta desempeño alto en Español e Inglés, evidenciando fortalezas en comprensión lectora y expresión. Su promedio de 3.7 corresponde a un desempeño básico aceptable, que muestra avances importantes cuando participa y se concentra en las actividades propuestas.”
 
 **ASPECTOS PARA MEJORAR – PRIMER SEMESTRE**  
-“Las siguientes asignaturas presentan desempeño bajo (<3.5): Matemáticas, Ciencias Naturales y Tecnología. En total tiene 3 asignaturas en desempeño bajo. En este primer semestre, debido a este número de áreas en desempeño bajo, el estudiante está reprobando el grado en este momento y requiere mejorar hábitos de estudio, asistir a tutorías y practicar ejercicios adicionales para consolidar los aprendizajes en estas áreas.”
+“Las siguientes asignaturas presentan desempeño bajo (<3.5): Matemáticas, Ciencias Naturales y Tecnología. En total tiene 3 asignaturas en desempeño bajo. Es necesario mejorar hábitos de estudio, asistir a tutorías y practicar ejercicios adicionales para consolidar los aprendizajes en estas áreas.”
 
 **COMPROMISO DE LA FAMILIA – PRIMER SEMESTRE**  
 “La familia debe reforzar el acompañamiento revisando tareas, apoyando el uso adecuado del tiempo de estudio y manteniendo comunicación con los docentes para hacer seguimiento a los avances y dificultades presentadas en este semestre.”
@@ -71,7 +71,7 @@ Usa estos textos como referencia. No deben copiarse siempre de forma literal: ad
 “El estudiante mantiene actitud respetuosa y relaciones positivas con sus compañeros. Presenta desempeño alto en Educación Física y Artística. Su promedio de 3.2 corresponde a un desempeño bajo, pero demuestra disposición para mejorar cuando recibe orientación y apoyo durante las clases.”
 
 **ASPECTOS PARA MEJORAR – PRIMER SEMESTRE**  
-“Las siguientes asignaturas presentan desempeño bajo (<3.5): Matemáticas, Ciencias Naturales, Humanidades y Tecnología. En total tiene 4 asignaturas en desempeño bajo. En este primer semestre, este número de áreas en desempeño bajo hace que actualmente esté reprobando el grado, por lo que requiere reforzar hábitos de estudio, cumplir tareas y participar activamente para aprovechar mejor las explicaciones del docente.”
+“Las siguientes asignaturas presentan desempeño bajo (<3.5): Matemáticas, Ciencias Naturales, Humanidades y Tecnología. En total tiene 4 asignaturas en desempeño bajo. Requiere reforzar hábitos de estudio, cumplir tareas y participar activamente para aprovechar mejor las explicaciones del docente.”
 
 **COMPROMISO DE LA FAMILIA – PRIMER SEMESTRE**  
 “Se recomienda que la familia supervise el cumplimiento de tareas, organice rutinas de estudio diarias y mantenga comunicación constante con la institución, de manera que pueda acompañar de cerca el proceso académico y emocional del estudiante.”
@@ -84,7 +84,7 @@ Usa estos textos como referencia. No deben copiarse siempre de forma literal: ad
 “La estudiante obtiene desempeño alto en Matemáticas y Ciencias Naturales, y superior en Inglés. Su promedio de 4.4 corresponde a un desempeño alto, destacando sus capacidades académicas y su comprensión de los contenidos trabajados durante el semestre.”
 
 **ASPECTOS PARA MEJORAR – PRIMER SEMESTRE**  
-“En este semestre no presenta asignaturas con desempeño bajo. Sin embargo, es necesario fortalecer habilidades de convivencia, mejorando el respeto por las normas, el lenguaje utilizado y la resolución pacífica de conflictos, para lograr un desarrollo integral coherente con su potencial académico y prevenir que pueda verse en riesgo de reprobación del grado más adelante.”
+“En este semestre no presenta asignaturas con desempeño bajo. Sin embargo, es necesario fortalecer habilidades de convivencia, mejorando el respeto por las normas, el lenguaje utilizado y la resolución pacífica de conflictos, para lograr un desarrollo integral coherente con su potencial académico.”
 
 **COMPROMISO DE LA FAMILIA – PRIMER SEMESTRE**  
 “Se sugiere que la familia dialogue frecuentemente con la estudiante sobre normas de convivencia, escuche sus inquietudes y mantenga comunicación con los docentes para apoyar la construcción de relaciones respetuosas en el entorno escolar.”

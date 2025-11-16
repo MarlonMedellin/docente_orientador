@@ -104,9 +104,7 @@ Párrafo de unas **80 palabras** que:
 
    > “No presenta asignaturas con desempeño bajo; sin embargo, puede fortalecer…”
 
-4. Para el **primer semestre**, cuando presente al menos una asignatura en desempeño bajo (<3.5), incluye una frase que indique que el estudiante **está reprobando el grado en ese momento**, manteniendo un enfoque orientador y de mejora.
-
-5. Proponga recomendaciones empáticas y orientadoras (hábitos de estudio, asistencia a tutorías, organización del tiempo, pedir ayuda, etc.), sin culpabilizar ni etiquetar al estudiante.
+4. Proponga recomendaciones empáticas y orientadoras (hábitos de estudio, asistencia a tutorías, organización del tiempo, pedir ayuda, etc.), sin culpabilizar ni etiquetar al estudiante.
 
 ---
 
